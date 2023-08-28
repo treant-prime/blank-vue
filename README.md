@@ -35,11 +35,12 @@ npm run lint
 ```
 
 
-Development:
+### Development:
 `node -v`
 v18.17.0
 
 Do plikow `.scss` i do `<style scoped lang="scss">`
 `npm install -D sass`
 
+hello
 
